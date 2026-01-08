@@ -1,0 +1,33 @@
+.header {
+  background: #151515 url("../images/intro-bg.jpg") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.header .social {
+  bottom: 50px;
+}
+
+
+.learning .card {
+  background-color: rgba(220, 0, 100, 0.9); /* pink with transparency */
+  color: white;
+  border-radius: 15px;
+}
+.learning {
+  background: #151515 url("../images/bg.jpg") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 6rem 0;   /* 👈 IMPORTANT */
+}
+
+.connect-form{
+  position: relative;
+  left:30rem;
+}
+#submit{
+  margin-bottom: 200px;
+}
+.footer{
+  display:flex;
+}
